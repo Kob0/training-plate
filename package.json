@@ -1,0 +1,23 @@
+{
+  "name": "training-plate",
+  "version": "1.0.0",
+  "description": "training space for javascript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kob0/training-plate.git"
+  },
+  "keywords": [
+    "train",
+    "js"
+  ],
+  "author": "andrew.m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kob0/training-plate/issues"
+  },
+  "homepage": "https://github.com/Kob0/training-plate#readme"
+}
