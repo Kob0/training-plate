@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Kob0/training-plate/issues"
   },
-  "homepage": "https://github.com/Kob0/training-plate#readme"
+  "homepage": "https://github.com/Kob0/training-plate#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
